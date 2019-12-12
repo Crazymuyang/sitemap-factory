@@ -1,0 +1,24 @@
+{
+  "name": "sitemap-factory",
+  "version": "0.0.1",
+  "description": "produce a sitemap for your website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "nodejs",
+    "sitemap",
+    "xml",
+    "sitemap.xml",
+    "seo",
+    "robots"
+  ],
+  "author": "CrazyMuyang",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "single-line-log": "^1.1.2",
+    "superagent": "^5.1.2"
+  }
+}
